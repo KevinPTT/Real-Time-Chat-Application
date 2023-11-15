@@ -86,4 +86,4 @@ Visual Studio Code - IDE
 
   
 
-[@Raveniis](https://github.com/Raveniis) - Raven Andre D. Legarde - Developer
+[@KevinPTT](https://github.com/KevinPTT/Real-Time-Chat-Application) - Kevin L. Costamero - Developer
