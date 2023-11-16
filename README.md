@@ -32,10 +32,8 @@ Start the Flask server to kick off the real-time chat application:
 to clone the repository use the following code:
 
 ```sh
-![image](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/ed02239f-3c67-4314-82ba-1f4575e912ee)
-
-![image](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/4d79c345-ad6d-40ad-8265-e3fd01390eea)
-
+![Sample1](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/505cbfb8-3c45-401c-8611-652afd23ecb2)
+![Sample2](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/f945ca3e-5085-471f-9c4f-5767cd5274f7)
 
 ```
 
