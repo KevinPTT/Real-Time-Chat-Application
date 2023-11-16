@@ -29,13 +29,12 @@ Start the Flask server to kick off the real-time chat application:
  Using Tkingter and Socket to Create Simple Real Time Chat 
 
 
-to clone the repository use the following code:
-
 
 ![Sample1](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/505cbfb8-3c45-401c-8611-652afd23ecb2)
 ![Sample2](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/f945ca3e-5085-471f-9c4f-5767cd5274f7)
 
  
+
 
 ## Setting up the Server
 
@@ -61,11 +60,11 @@ Alternatively, you can use any IDE of your choice.
 
   
 
-To use the application, run `client.py` using the same methods as before. Note that you must set up the server first for this to work properly. After opening `client.py`, proceed to set up where you must enter your username. After that, you will be connected to the server, and you can now chat with others and have fun!
+Use the same commands or visual Studio to run `client.py` to utilize the application. Keep in mind that for this to function correctly, the server must first be configured. Open `client.py}, then go to setup where your username needs to be entered. Following that, you'll be able to connect to the server and start chatting and having fun with other users!
 
   
 
-You can run as many instances of `client.py` as you want.
+`client.py` can be run in as many instances as desired.
 
   
 
