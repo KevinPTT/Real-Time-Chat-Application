@@ -24,19 +24,18 @@ Start the Flask server to kick off the real-time chat application:
 
 
 
-## Prerequisites
+## ScreenShots
 
-  
+ Using Tkingter and Socket to Create Simple Real Time Chat 
 
-For the installation you can download both the client.py and server.py or by cloning the repository.
-
-  
 
 to clone the repository use the following code:
 
 ```sh
+![image](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/ed02239f-3c67-4314-82ba-1f4575e912ee)
 
-git  clone  https://github.com/Raveniis/Real-time-Chat-Application.git
+![image](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/4d79c345-ad6d-40ad-8265-e3fd01390eea)
+
 
 ```
 
